@@ -1,3 +1,3 @@
 # Cadastro app
 
-Cadastra auluno. Sem banco. Muda de tela
+Cadastra aluno. Sem banco. Muda de tela
